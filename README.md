@@ -13,6 +13,14 @@
 - Semantic UI
 - Lots of love :heart:
 
+## Get started
+
+- open your terminal 
+- run ```git clone https://github.com/Shaher-11/SimpleWebRTC```
+- run ``npm install``
+- run ``npm start``
+- open your browser and go to [localhost:3000](http://localhost:3000)
+
 
 👤 **Shaher Shamroukh**
  
